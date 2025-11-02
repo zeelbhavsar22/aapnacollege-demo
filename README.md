@@ -1,4 +1,4 @@
 # aapnacollege-demo
 This is my first Git repository.
 <br>
-Author - Zeel Bhavsar
+Author - Zeel Bhavsar (University Gujarat)
